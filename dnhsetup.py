@@ -72,7 +72,7 @@ def FAYSAL():
     elif option in ['02', '2']:
         FULLSETUP()
     elif option in ['03', '3']:
-        ALLMasTerx1001('xdg-open https://wa.me/+8801310329198')
+        ALLMasTerx1001('xdg-open https://wa.me/+8801632906486')
     else:
         exit('Thanks for using!')
 
